@@ -19,7 +19,7 @@
        <li>Меморіал вічно живим</li>
        <li>Флай Кідс</li>
        <li>Парк миру</li>
-    </o1>
+    </ol>
     
     <footer>
      <h5> align="center"&#169GermanOnly
