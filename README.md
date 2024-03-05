@@ -22,7 +22,7 @@
     </ol>
     
     <footer>
-     <h5> align="center"&#169GermanOnly
+      <h5> align="center"&#169GermanOnly</h5>
      </footer>
-     </body>
-     </html>
+</body>
+</html>
