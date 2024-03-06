@@ -20,7 +20,6 @@
          <li>Парк миру</li>
          <li>Скеля «Гранітний реєстр» </li>
        </ol>
-
       <footer>
         <h5 align="center">&#169GermanOnly</h5>
       </footer>
